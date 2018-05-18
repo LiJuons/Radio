@@ -1,7 +1,9 @@
-"Internet Radio" paleidimo instrukcija:
+# Internet Radio
+
+## "Internet Radio" paleidimo instrukcija:
 
 
-  5.1. Reikalinga programinė įranga 
+###  5.1. Reikalinga programinė įranga 
 
     • Composer + Laravel (https://laravel.com/docs/5.6/installation)
     • Node + npm + Angular (https://nodejs.org/en/download/,https://cli.angular.io)
@@ -10,16 +12,18 @@
     • Pasirinkta garso transalvimo programa(MIXXX (https://www.mixxx.org), SAMCast ar pan.)
     • PostMan (Neprivaloma, https://www.getpostman.com/apps)
 
-  5.2. Programos konfiguracija
+###  5.2. Programos konfiguracija
 
   1. Duomenų bazės sukūrimas
     (a) Sukurti duomenų bazę pavadinimų "Radio"
 
   2. Susikonfiguruoti.env
+  
     (a) Eiti į katalogą 'Radio/api/' 
     (b) Pervadinti failą '.env.example' į '.env' 
     (c) .env faile pakeisti šią eilutę: DB_DATABASE=Radio 
     (d) Pagal lokalios duomenų bazės konfigūraciją atitinkamai pakeisti šias eilutes: 
+    
         i.    DB_HOST 
         ii.   DB_PORT 
         iii.  DB_USERNAME 
