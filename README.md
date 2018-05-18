@@ -6,7 +6,7 @@
 ###  5.1. Reikalinga programinė įranga 
 
     • Composer + Laravel (https://laravel.com/docs/5.6/installation)
-    • Node + npm + Angular (https://nodejs.org/en/download/,https://cli.angular.io)
+    • Node + npm + Angular (https://nodejs.org/en/download/, https://cli.angular.io)
     • IceCast (http://icecast.org/download)
     • SQL duombazė (MariaDB, Postgre ar pan.) (https://dev.mysql.com/downloads/installer)
     • Pasirinkta garso transalvimo programa(MIXXX (https://www.mixxx.org), SAMCast ar pan.)
@@ -74,3 +74,10 @@
         • Password: Prisijungus prie sistemos, profilio sekcijoje sugeneruotas transliacijos raktas 
         • Host: localhost arba 127.0.0.1 
         • Type: IceCast2
+
+
+
+
+*Autoriai:
+Linas Jonas Žilinskas (Front-End) @LiJuonas
+Vilius Vaičiūnas (Back-End) @ScruffyPants*
