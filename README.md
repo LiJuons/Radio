@@ -20,15 +20,15 @@
 
   2. Susikonfiguruoti.env
   
-    (a) Eiti į katalogą '_Radio/api/_' 
-    (b) Pervadinti failą '_.env.example_' į '_.env_' 
-    (c) .env faile pakeisti šią eilutę: _DB_DATABASE=Radio_
+    (a) Eiti į katalogą 'Radio/api/' 
+    (b) Pervadinti failą '.env.example' į '.env' 
+    (c) .env faile pakeisti šią eilutę: DB_DATABASE=Radio
     (d) Pagal lokalios duomenų bazės konfigūraciją atitinkamai pakeisti šias eilutes: 
     
-        i.    _DB_HOST_
-        ii.   _DB_PORT_ 
-        iii.  _DB_USERNAME_ 
-        iv.   _DB_PASSWORD_
+        i.    DB_HOST
+        ii.   DB_PORT 
+        iii.  DB_USERNAME 
+        iv.   DB_PASSWORD
 
 
   3. Paleisti duomenų bazės migraciją
