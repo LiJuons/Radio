@@ -78,6 +78,9 @@
 
 
 
-*Autoriai:
-Linas Jonas Žilinskas (Front-End) @LiJuonas
-Vilius Vaičiūnas (Back-End) @ScruffyPants*
+*Autoriai:*
+
+
+*Linas Jonas Žilinskas (Front-End) @LiJuonas*
+
+*Vilius Vaičiūnas (Back-End) @ScruffyPants*
